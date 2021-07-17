@@ -2,5 +2,6 @@
 **/bin/
 **/obj/
 *.user
+*DS_Store
 # local test data
 /SocialTalents.MongoSync.Console/636*.json
