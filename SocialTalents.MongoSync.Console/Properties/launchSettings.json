@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "SocialTalents.MongoSync.Console": {
+      "commandName": "Project"
+    }
+  }
+}
