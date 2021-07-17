@@ -52,7 +52,7 @@ namespace SocialTalents.MongoSync.Console.Model
                 }
             }
 
-            if (_connectionString.Ssl.HasValue && _connectionString.Ssl.Value)
+            if (_connectionString.Tls.HasValue && _connectionString.Tls.Value)
             {
                 sb.Append(" --ssl");
             }
